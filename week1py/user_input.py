@@ -4,4 +4,4 @@ location = input("Enter your current location:")
 
 
 
-print(f"My name is {name}, {age} yrs, currently living in {location}!")
+print("My name is ", name, age, " yrs, currently living in", location")
